@@ -127,10 +127,18 @@
           <artifactId>maven-resources-plugin</artifactId>
           <version>3.0.2</version>
         </plugin>
-	<plugin>
+		<plugin-addedTest>
           <artifactId>maven-resources-plugin test45</artifactId>
           <version>3.0.2testing for rebase</version>
+<<<<<<< HEAD
 	  <versionadded>added from remote by another person</version>
+=======
+		  <version>adding_another_line</version>
+        </plugin>
+		<plugin>
+          <artifactId>maven-resources-plugin This is from local branch</artifactId>
+          <version>3.0.2testing for from local branch</version>
+>>>>>>> 49e3fb1 (test commit 3)
         </plugin>
         <plugin>
           <artifactId>maven-compiler-plugin</artifactId>
