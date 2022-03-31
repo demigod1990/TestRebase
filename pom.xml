@@ -127,6 +127,10 @@
           <artifactId>maven-resources-plugin</artifactId>
           <version>3.0.2</version>
         </plugin>
+	<plugin>
+          <artifactId>maven-resources-plugin test45</artifactId>
+          <version>3.0.2testing for rebase</version>
+        </plugin>
         <plugin>
           <artifactId>maven-compiler-plugin</artifactId>
           <version>3.7.0</version>
