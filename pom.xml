@@ -105,6 +105,12 @@
 			<artifactId>openxml4j</artifactId>
 			<version>1.0-beta</version>
 		</dependency>
+		
+		<dependency>
+			<groupId>org.apache.poi-Test1</groupId>
+			<artifactId>openxml4j-1</artifactId>
+			<version>1.0-betaTest1</version>
+		</dependency>
 	
     
   </dependencies>
